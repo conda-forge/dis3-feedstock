@@ -1,6 +1,6 @@
 {% set name = "dis3" %}
-{% set version = "0.1.1" %}
-{% set sha256 = "ee9f71e1a0c01a3ba742a36be91147948db99da3ee29094dccb48857c54608ef" %}
+{% set version = "0.1.2" %}
+{% set sha256 = "b98e5a9e3d8df54396219c0093fed1454416cec2b74ec15dc63e6a72b3bab94a" %}
 
 package:
   name: {{ name|lower }}
